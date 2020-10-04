@@ -23,16 +23,16 @@ npm start
 Por omisión se usa el puerto **8080** pero se puede especificar cualquiera.
 Con su navegador favorito entre a http://localhost:8080
 
-## Información para colaborador@s
+## Información para colaboradores 
 
 Muchas gracias por leer esta parte y estar intersad@ en colaborar con el código y desarrollo de la página web del grupo, es muy fácil iniciar, solo necesitas instalar la herramienta de software libre [Git](http://git-scm.com/) y tener una cuenta en [Github](https://github.com/).
 
-Después de tener la cuenta en github es necesario que hagas un "fork" del proyecto dando click en el botón "fork" de la [página inicial](https://github.com/sequeirandres/pagina). Esto copiara el código a tu cuenta de github y podrás modificar el código y subir los cambios sin problema.
+Después de tener la cuenta en github es necesario que hagas un "fork" del proyecto dando click en el botón "fork" de la [página inicial](https://github.com/sequeirandres/webpage). Esto copiara el código a tu cuenta de github y podrás modificar el código y subir los cambios sin problema.
 
 Ahora hay que descargar el código fuente "clonando" el repositorio. Es mucho mas rápido y cómodo hacerlo desde la consola:
 
 ```
-git clone git@github.com:pereirajs/pagina.git
+git clone https://github.com/sequeirandres/webpage.git
 ```
 
 Este comando creara la carpeta `pagina` y descargara allí el código fuente.
@@ -65,13 +65,6 @@ Cualquier cambio que se haga debe hacerse en un branch independiente, normalment
  * [http-server](http://browsenpm.org/package/http-server) Para correr el server localmente y en el server
  * [Bootstrap](http://getbootstrap.com) Excelente ayuda CSS listo para ser usado en el HTML
 
-## Preguntas, dudas, comentarios, sugerencias.
-
-Puede reportar un problema o sugerir cambios usando [la página de Issues de Github](https://github.com/sequeirandres/pagina/issues) desde allí cree un nuevo Issue y deje su sugerencia o comentario.
-
-Si cree que es algo irrelevante con el código de la página, siéntase libre de contactarnos en info@pereirajs.org
-
-También puedes visitar nuestro canal de chat: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pereirajs/pagina?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Información de desarrollo
 
@@ -81,4 +74,4 @@ Principalmente es una página estática, puro HTML. Usamos Mustache como sistema
 
 Ahora usamos Github Pages para alojar la página, así que con solo hacer push a `gh-pages` se desplegara.
 
-TENGA CUIDADO! no hacemos push arbitrariamente seguimos un flujo de trabajo en branchs y utilizamos `master` como rama de integración y desde allí se harán los releases, solo releases completos serán pasados al branch `gh-pages`
+carefull! no hacemos push arbitrariamente seguimos un flujo de trabajo en branchs y utilizamos `master` como rama de integración y desde allí se harán los releases, solo releases completos serán pasados al branch `gh-pages`
