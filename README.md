@@ -1,4 +1,4 @@
-# Página Web sequeirandres.org
+# Página Web 
 # this is for designer web page htlm5 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sequeirandres/pagina?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -25,7 +25,7 @@ Con su navegador favorito entre a http://localhost:8080
 
 ## Información para colaboradores 
 
-Muchas gracias por leer esta parte y estar intersad@ en colaborar con el código y desarrollo de la página web del grupo, es muy fácil iniciar, solo necesitas instalar la herramienta de software libre [Git](http://git-scm.com/) y tener una cuenta en [Github](https://github.com/).
+Muchas gracias por leer esta parte y estar interesados en colaborar con el código y desarrollo de la página web del grupo, es muy fácil iniciar, solo necesitas instalar la herramienta de software libre [Git](http://git-scm.com/) y tener una cuenta en [Github](https://github.com/).
 
 Después de tener la cuenta en github es necesario que hagas un "fork" del proyecto dando click en el botón "fork" de la [página inicial](https://github.com/sequeirandres/webpage). Esto copiara el código a tu cuenta de github y podrás modificar el código y subir los cambios sin problema.
 
